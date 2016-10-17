@@ -1,2 +1,2 @@
 # MetagenomR
-Metagenomic analysis in R
+Metagenomic analysis in R / CBIB
