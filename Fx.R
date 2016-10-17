@@ -2,6 +2,6 @@
 
 Normalize <- function (mat)  {
   
-  
+  mat=1
   return(mat)
 }
